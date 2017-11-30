@@ -1,8 +1,8 @@
 
 public class Sumando {
 
-	static public int a = 4;
-	static public int b = 6;
+	static public int a = 15;
+	static public int b = 25;
 	static public int c = a + b;
 	
 	
